@@ -1,6 +1,8 @@
-# ty_ml_prototyping
-Some machine learning templating - obviously not exhaustive. For example - don't envision determining random versus non-random NA values in data. Nor can anything in stats follow template.
+# machLearn Shiny app
 
-Initally will create interface, then functionality.
-will implement many machine learning algorithms. 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=STYYMLHRFWY6L
+)
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
 
+[![Beerpay](https://beerpay.io/davesteps/machLearn/badge.svg?style=beer-square)](https://beerpay.io/davesteps/machLearn)  [![Beerpay](https://beerpay.io/davesteps/machLearn/make-wish.svg?style=flat-square)](https://beerpay.io/davesteps/machLearn?focus=wish)
